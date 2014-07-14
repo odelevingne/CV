@@ -6,7 +6,7 @@ An enthusiastic and determined junior level developer, throwing everything I hav
 
 | [Unipop](https://github.com/odelevingne/unipop) | [Rock, Paper, Scissors](https://github.com/odelevingne/rock_paper_scissors) | [Takeaway](https://github.com/odelevingne/takeaway)|
 | ------------- | ------------ | ---------- |
-| Our final project at Makers Academy, a Rails based web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in Javascript and incorporating jQuery| A rigorously test-driven model of a takeaway, written in ruby, tested with rspec, emphasis on OOP |
+| Our final project at Makers Academy, a Ruby on Rails web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in Javascript and incorporating jQuery| A rigorously test-driven model of a takeaway, written in ruby, tested with rspec, emphasis on OOP |
 
 
 
