@@ -59,7 +59,7 @@ Education
 Contact Me
 ---------
 
-I'm `odelevingne` on [Github](www.github.com/odelevingne) and [LinkedIn](www.linkedin.com/in/odelevingne).
+I'm `odelevingne` on [Github](https://github.com/odelevingne) and [LinkedIn](https://www.linkedin.com/in/odelevingne).
 
 07824430733
 
