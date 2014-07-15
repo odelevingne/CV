@@ -40,14 +40,13 @@ Experience
 
 ### City Showcase
 **Event Manager Feb 2013&mdash;March 2014**
-  - 
   - Drafted 2014 Summer Season schedule.
 
 ### Eurotech
 **Administrative Assistant**
 
 ### Mills & Reeve LLP
-** Admin Assistant June&mdash;August 2010 **
+**Admin Assistant June&mdash;August 2010**
 
 Education
 ---------
@@ -60,5 +59,10 @@ Education
 Contact Me
 ---------
 
+I'm `odelevingne` on [Github](www.github.com/odelevingne) and [LinkedIn](www.linkedin.com/in/odelevingne).
+
+07824430733
+
+[oliver@delevingne.co.uk]
 
 
