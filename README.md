@@ -40,7 +40,6 @@ Experience
 
 ### City Showcase
 **Event Manager Feb 2013&mdash;March 2014**
-  - Drafted 2014 Summer Season schedule.
 
 ### Eurotech
 **Administrative Assistant**
