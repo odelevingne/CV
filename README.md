@@ -1,7 +1,7 @@
 Oliver Delevingne
 =========
 
-An enthusiastic and determined junior level developer, throwing everything I have at improving my skillset. Off the back of a 3 month, full time and highly intensive web development course at Makers Academy, the spark has been ignited and I'm looking to delve into an exciting new career.
+An enthusiastic and determined junior level developer, throwing everything I have at improving my skillset. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
 
 Code Examples
 -------------
