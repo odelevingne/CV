@@ -62,6 +62,6 @@ I'm `odelevingne` on [Github](https://github.com/odelevingne) and [LinkedIn](htt
 
 07824430733
 
-[oliver@delevingne.co.uk]
+oliver@delevingne.co.uk
 
 
