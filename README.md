@@ -1,7 +1,7 @@
 Oliver Delevingne
 =========
 
-An enthusiastic and determined junior level developer, throwing everything I have at improving my skillset. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
+An enthusiastic and determined junior level developer with a passion for tech, putting everything I have at improving my skillset. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
 
 Code Examples
 -------------
@@ -38,22 +38,46 @@ Software Development
 Experience
 ----------
 
-### City Showcase
+### [City Showcase](www.cityshowcase.co.uk)
 **Event Manager Feb 2013&mdash;March 2014**
+  - City Showcase is a not-for-profit set up to provide a platform for emerging and exciting creative talent, focusing     primarily on music. The comany was also 'for-hire' to outside clients to provide music production at large scale sporting events.
+  - Hired as an event assistant
+  - A&R'ing and booking new musical talent to perform at our events.
+  - Artist liason with 'big-name' talent
+  - Sourcing sponsorship
+  - Managing the company Facebook and Twitter accounts
+  - Attending recruitment fairs on behalf of the company
+  - Working to strict deadlines on large-scale projects
+  - Required to be highly organised with an acute attention to detail
+  - Marketing and PR
+  - Organising and managing teams of up to 10 people
+  - Stage manager - ensuring the smooth running of stages at large scale events with crowds of up to 15,000 people 
+  - Sole organiser of events at the Apple Store, Regent Street - securing leading music industry experts to talk at our talent showcases
+  - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforseen difficulties.
 
 ### Eurotech
-**Administrative Assistant**
+**Administrative Assistant Summers of 2009/11**
+  - Covering P.A role for the Financial Director
+  - Updating key company component databases
+  - Reception duties 
+  - Handling telephone enquiries
+
 
 ### Mills & Reeve LLP
 **Admin Assistant June&mdash;August 2010**
+  - Liasing with lawyers at a top 50 law firm
+  - Organsing and archiving confidential legal documents
+  - Reception duties 
+  - Handling telephone enquiries
+
 
 Education
 ---------
 ### University of Nottingham
-**Studied Philosophy: 2008&mdash;2012**
+**Philosophy: 2008&mdash;2012**
 
 ### St Benedicts Upper School
-**A Level: Sociology (A), English Literature (B) and Religious Studies (B)**
+**A Level: English Literature, Sociology and Religious Studies**
 
 Contact Me
 ---------
@@ -63,5 +87,3 @@ I'm `odelevingne` on [Github](https://github.com/odelevingne) and [LinkedIn](htt
 07824430733
 
 oliver@delevingne.co.uk
-
-
