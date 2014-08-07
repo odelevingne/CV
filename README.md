@@ -38,7 +38,7 @@ Software Development
 Experience
 ----------
 
-### [City Showcase](www.cityshowcase.co.uk)
+### [City Showcase](http://www.cityshowcase.co.uk)
 **Event Manager Feb 2013&mdash;March 2014**
   - City Showcase is a not-for-profit set up to provide a platform for emerging and exciting creative talent, focusing     primarily on music. The comany was also 'for-hire' to outside clients to provide music production at large scale sporting events.
   - Hired as an event assistant
