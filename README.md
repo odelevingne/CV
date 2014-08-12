@@ -40,18 +40,11 @@ Experience
 
 ### [City Showcase](http://www.cityshowcase.co.uk)
 **Event Manager Feb 2013&mdash;March 2014**
-  - City Showcase is a not-for-profit set up to provide a platform for emerging and exciting creative talent, focusing     primarily on music. The comany was also 'for-hire' to outside clients to provide music production at large scale sporting events.
-  - Hired as an event assistant
   - A&R'ing and booking new musical talent to perform at our events.
-  - Artist liason with 'big-name' talent
   - Sourcing sponsorship
-  - Managing the company Facebook and Twitter accounts
-  - Attending recruitment fairs on behalf of the company
   - Working to strict deadlines on large-scale projects
   - Required to be highly organised with an acute attention to detail
-  - Marketing and PR
   - Organising and managing teams of up to 10 people
-  - Stage manager - ensuring the smooth running of stages at large scale events with crowds of up to 15,000 people 
   - Sole organiser of events at the Apple Store, Regent Street - securing leading music industry experts to talk at our talent showcases
   - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforseen difficulties.
 
@@ -75,6 +68,11 @@ Education
 ---------
 ### University of Nottingham
 **Philosophy: 2008&mdash;2012**
+  - Required the ability to think, speak and write both clearly and critically
+  - Analyzing complex arguments 
+  - Using reasoned approaches to difficult problems
+  - Forming creative solutions to problems
+  - Appreciating views different from my own
 
 ### St Benedicts Upper School
 **A Level: English Literature, Sociology and Religious Studies**
