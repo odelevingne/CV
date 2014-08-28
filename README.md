@@ -23,7 +23,7 @@ Software Development
 - API integration including Twilio, Google Maps and Stripe 
 - Version control: git and GitHub
 - Agile practices and principles
-- Pair Prgramming
+- Pair Programming
 - Object Orientated principles and design
 
 ###Makers Academy
