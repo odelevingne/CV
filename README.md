@@ -41,7 +41,7 @@ Experience
 ### [City Showcase](http://www.cityshowcase.co.uk)
 **Event Manager Feb 2013&mdash;March 2014**
   - A&R'ing and booking new musical talent to perform at our events.
-  - Sourcing sponsorship
+  - Dealing with clients
   - Working to strict deadlines on large-scale projects
   - Required to be highly organised with an acute attention to detail
   - Organising and managing teams of up to 10 people
