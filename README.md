@@ -40,13 +40,13 @@ Experience
 
 ### [City Showcase](http://www.cityshowcase.co.uk)
 **Event Manager Feb 2013&mdash;March 2014**
-  - A&R'ing and booking new musical talent to perform at our events.
+  - A&R'ing and booking new musical talent to perform at our events
   - Dealing with clients
   - Working to strict deadlines on large-scale projects
   - Required to be highly organised with an acute attention to detail
   - Organising and managing teams of up to 10 people
   - Sole organiser of events at the Apple Store, Regent Street - securing leading music industry experts to talk at our talent showcases
-  - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforseen difficulties.
+  - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforseen difficulties
 
 ### Eurotech
 **Administrative Assistant Summers of 2009/11**
