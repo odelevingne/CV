@@ -1,25 +1,25 @@
 Oliver Delevingne
 =========
 
-An enthusiastic and determined junior level developer with a passion for tech, putting everything I have at improving my skillset. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
+An enthusiastic and determined junior level developer with a passion for tech, putting everything I have at improving my skill set. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
 
 Code Examples
 -------------
 | [Unipop](https://github.com/odelevingne/unipop) | [Rock, Paper, Scissors](https://github.com/odelevingne/rock_paper_scissors) | [Takeaway](https://github.com/odelevingne/takeaway)|
 | ------------- | ------------ | ---------- |
-| Our final project at Makers Academy, a Ruby on Rails web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in Javascript and incorporating jQuery| A rigorously test-driven model of a takeaway, written in ruby, tested with rspec, emphasis on OOP |
+| Our final project at Makers Academy, a Ruby on Rails web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in JavaScript and incorporating jQuery| A rigorously test-driven model of a takeaway, written in ruby, tested with RSpec, emphasis on OOP |
 
 
 Software Development
 ---------------------
 ###Skills
-- TDD and BDD: Rspec, Jasmine, Cucumber, Capybara
-- Languages: Ruby 2, Ruby on Rails, Javascript, HTML5 and ERB, CSS3 and Sass
-- Database: PostgreSQL, Datamapper, ActiveRecord
+- TDD and BDD: RSpec, Jasmine, Cucumber, Capybara
+- Languages: Ruby 2, Ruby on Rails, JavaScript, HTML5 and ERB, CSS3 and Sass
+- Database: PostgreSQL, DataMapper, ActiveRecord
 - Web Frameworks: Rails 4, Sinatra
 - AJAX
-- Deplying to Heroku
-- Websockets
+- Deploying to Heroku
+- WebSockets
 - API integration including Twilio, Google Maps and Stripe 
 - Version control: git and GitHub
 - Agile practices and principles
@@ -46,7 +46,7 @@ Experience
   - Required to be highly organised with an acute attention to detail
   - Organising and managing teams of up to 10 people
   - Sole organiser of events at the Apple Store, Regent Street - securing leading music industry experts to talk at our talent showcases
-  - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforseen difficulties
+  - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment dealing with any unforeseen difficulties
 
 ### Eurotech
 **Administrative Assistant Summers of 2009/11**
@@ -58,8 +58,8 @@ Experience
 
 ### Mills & Reeve LLP
 **Admin Assistant June&mdash;August 2010**
-  - Liasing with lawyers at a top 50 law firm
-  - Organsing and archiving confidential legal documents
+  - Liaising with lawyers at a top 50 law firm
+  - Organising and archiving confidential legal documents
   - Reception duties 
   - Handling telephone enquiries
 
