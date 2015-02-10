@@ -48,7 +48,7 @@ Experience
   - Within 6 months, I took sole on-site charge of an event. We were hired to provide the stage, sound and DJs for a medium-scale sporting event which saw over 7000 people in attendance. I was the point of contact for our client; team manager and responsible for ensuring the successful execution in a high pressure environment, dealing with any unforeseen difficulties
 
 ### Eurotech
-**Administrative Assistant Summers of 2009/11**
+**Administrative Assistant Summers of 2009 & 2011**
   - Covering P.A role for the Financial Director
   - Updating key company component databases
   - Reception duties 
