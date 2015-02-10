@@ -27,7 +27,7 @@ Software Development
 - Object Orientated principles and design
 
 ###Makers Academy
-**Web Development Bootcamp: March&mdash;June 2014**
+**Web Development Bootcamp**
 
   - Highly selective 12 week full-time course
   - Full stack web development
