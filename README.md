@@ -49,7 +49,7 @@ Experience
 
 ### Eurotech
 **Administrative Assistant Summers of 2009 & 2011**
-  - Covering P.A role for the Financial Director
+  - Covering P.A. role for the Financial Director
   - Updating key company component databases
   - Reception duties 
   - Handling telephone enquiries
