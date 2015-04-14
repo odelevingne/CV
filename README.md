@@ -13,14 +13,14 @@ Code Examples
 Software Development
 ---------------------
 ###Skills
-- TDD and BDD: RSpec, Jasmine, Cucumber, Capybara
-- Languages: Ruby 2, Ruby on Rails, JavaScript, HTML5 and ERB, CSS3 and Sass
+- TDD and BDD: RSpec, Jasmine, Cucumber, Capybara, Protractor and Karma
+- Languages: Ruby 2, Ruby on Rails, JavaScript, Node.js HTML5 and ERB, CSS3 and Sass
 - Database: PostgreSQL, DataMapper, ActiveRecord
-- Web Frameworks: Rails 4, Sinatra
+- Web Frameworks: Rails 4, Sinatra, ExpressJS and Angular
 - AJAX
 - Deploying to Heroku
 - WebSockets
-- API integration including Twilio, Google Maps and Stripe 
+- API integration including Twilio, Google Maps, Stripe, Songkick and Transport API
 - Version control: git and GitHub
 - Agile practices and principles
 - Pair Programming
