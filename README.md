@@ -5,9 +5,9 @@ An enthusiastic and determined junior level developer with a passion for tech. H
 
 Code Examples
 -------------
-| [Unipop](https://github.com/odelevingne/unipop) | [Rock, Paper, Scissors](https://github.com/odelevingne/rock_paper_scissors) | [Theatre Booker](https://github.com/odelevingne/booking)|
+| [Unipop](https://github.com/odelevingne/unipop) | [Rock, Paper, Scissors](https://github.com/odelevingne/rock_paper_scissors) | [Theatre Booker](https://github.com/odelevingne/booking)| [Gig Lister](https://github.com/odelevingne/gigLister)
 | ------------- | ------------ | ---------- |
-| Our final project at Makers Academy, a Ruby on Rails web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in JavaScript and incorporating jQuery| A rigorously test-driven model of a theatre booking system, written in ruby, tested with RSpec, emphasis on OOP |
+| Our final project at Makers Academy, a Ruby on Rails web app allowing students to sell directly to each other within their own community. Built using BDD/TDD in 10 days | A Sinatra web app for playing a more complex version of Rock, Paper, Scissors. Written in JavaScript and incorporating jQuery| A rigorously test-driven model of a theatre booking system, written in ruby, tested with RSpec, emphasis on OOP | 
 
 
 Software Development
