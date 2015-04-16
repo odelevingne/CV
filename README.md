@@ -1,7 +1,7 @@
 Oliver Delevingne
 =========
 
-An enthusiastic and determined junior level developer with a passion for tech, putting everything I have at improving my skill set. Off the back of a 3 month, full time and highly intensive web development course at [Makers Academy](http://www.makersacademy.com/), the spark has been ignited and I'm looking to delve into an exciting new career.
+An enthusiastic and determined junior level developer with a passion for tech. Having had a long standing desire to extend my coding skills I discovered and completed [Makers Academy](http://www.makersacademy.com/), a 3 month, full time and highly intensive web development course. I am now looking for my first role so that I can continue to realise my passion for web development. 
 
 Code Examples
 -------------
