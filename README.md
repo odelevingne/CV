@@ -80,7 +80,3 @@ Contact Me
 ---------
 
 I'm `odelevingne` on [Github](https://github.com/odelevingne) and [LinkedIn](https://www.linkedin.com/in/odelevingne).
-
-07824430733
-
-oliver@delevingne.co.uk
